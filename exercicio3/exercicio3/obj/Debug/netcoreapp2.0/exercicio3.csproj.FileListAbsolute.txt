@@ -1,0 +1,11 @@
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\bin\Debug\netcoreapp2.0\exercicio3.deps.json
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\bin\Debug\netcoreapp2.0\exercicio3.runtimeconfig.json
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\bin\Debug\netcoreapp2.0\exercicio3.runtimeconfig.dev.json
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\bin\Debug\netcoreapp2.0\exercicio3.dll
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\bin\Debug\netcoreapp2.0\exercicio3.pdb
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.csprojResolveAssemblyReference.cache
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.AssemblyInfo.cs
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.dll
+C:\Users\laisl\Desktop\codigos\exercicio3\exercicio3\obj\Debug\netcoreapp2.0\exercicio3.pdb
